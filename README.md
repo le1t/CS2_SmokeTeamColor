@@ -35,3 +35,7 @@ css_smoketeamcolor_setrandom_ct <0/1> – Установить значение 
 css_smoketeamcolor_setloglevel <0-5> – Установить уровень логирования.
 
 ~~~
+
+# ЭТОТ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА:
+
+https://github.com/Stimayk/ShopSmokeColor/
